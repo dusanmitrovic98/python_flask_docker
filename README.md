@@ -1,6 +1,6 @@
 # `python_flask_docker` template
 
-## Run the application
+## Run the application 
 
 ```bash
 docker compose up --build
